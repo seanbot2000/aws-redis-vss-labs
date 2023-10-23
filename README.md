@@ -10,7 +10,7 @@ Off late, Redis Enterprise Cloud is being used as a Vector Database for its capa
 In this hands-on, we will gain experience on how to employ a Vector database and get started with Vector Similarity Search on Redis Enterprise Cloud.
 
 # Attribution
-This git repo is an extension of the source git repo : [redis-vss-getting-started](https://github.com/RedisVentures/redis-vss-getting-started/tree/main) authored by @bsbodden.
+This git repo is an extension of the source git repo : [redis-vss-getting-started](https://github.com/RedisVentures/redis-vss-getting-started/tree/main) authored by Brian Sam-Bodden  - the Developer Advocate here at Redis(@bsbodden).
 This git repo simply creates hands-on labs experience on top of the original git repo mentioned here.
 
 
