@@ -1,2 +1,3 @@
-# aws-redis-vss-labs
-Redis Enterprise Cloud on AWS as a Vector Database
+# Hands on labs - Vector Similarity Search with Redis Enterprise Cloud on AWS
+
+First commit.
