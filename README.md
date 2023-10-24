@@ -59,12 +59,11 @@ Also, please note you may also additionally incur AWS cloud resource costs. Henc
 
 
 # Hands-on exercises
-* [Lab 0 - Signup for AWS](Lab&#32;0&#32;-&#32;Signup&#32;for&#32;AWS)
-* [Lab 1 - Infra Setup](Lab&#32;1&#32;-&#32;Infra&#32;Setup)
-* [Lab 2 - Redis Enterprise Cloud Setup](Lab&#32;2&#32;-&#32;Redis&#32;Enterprise&#32;Cloud&#32;Setup)
-* [Lab 3 - Getting started with VSS on Redis Enterprise Cloud](Lab&#32;3&#32;-&#32;Getting&#32;started&#32;with&#32;VSS&#32;on&#32;Redis&#32;Enterprise&#32;Cloud
-)
-* [Lab 4 - Cleanup](Lab&#32;4&#32;-&#32;Cleanup)
+* [Lab 0 - Signup for AWS](./labs/Lab&#32;0&#32;-&#32;Signup&#32;for&#32;AWS)
+* [Lab 1 - Infra Setup](./labs/Lab&#32;1&#32;-&#32;Infra&#32;Setup)
+* [Lab 2 - Redis Enterprise Cloud Setup](./labs/Lab&#32;2&#32;-&#32;Redis&#32;Enterprise&#32;Cloud&#32;Setup)
+* [Lab 3 - Getting started with VSS on Redis Enterprise Cloud](./labs/Lab&#32;3&#32;-&#32;Getting&#32;started&#32;with&#32;VSS&#32;on&#32;Redis&#32;Enterprise&#32;Cloud)
+* [Lab 4 - Cleanup](./labs/Lab&#32;4&#32;-&#32;Cleanup)
 
 # Additional resources
 ## Redis Enterprise Cloud resources
