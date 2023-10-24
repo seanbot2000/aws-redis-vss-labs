@@ -36,3 +36,5 @@ After replacing the Redis Enterprise database endpoint credentials, it will look
 
 5. Happy running the entire code and learning more...
 ![](images/vss-5.png)
+
+[<< Previous Lab (2) <<](../Lab&#32;2&#32;-&#32;Redis&#32;Enterprise&#32;Cloud&#32;Setup) | [>> Next Lab (4) >> ](../Lab&#32;4&#32;-&#32;Cleanup)

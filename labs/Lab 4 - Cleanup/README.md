@@ -24,4 +24,4 @@ In this lab, you are going to use CloudFormation template to cleanup all of the 
 ![](images/cleanup-5.png)
 
 
-[<< Previous Lab (3) <<](Lab&#32;3&#32;-&#32;Getting&#32;started&#32;with&#32;VSS&#32;on&#32;Redis&#32;Enterprise&#32;Cloud)
+[<< Previous Lab (3) <<](../Lab&#32;3&#32;-&#32;Getting&#32;started&#32;with&#32;VSS&#32;on&#32;Redis&#32;Enterprise&#32;Cloud)
