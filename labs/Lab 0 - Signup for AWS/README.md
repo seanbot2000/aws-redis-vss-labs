@@ -124,4 +124,6 @@ However ever, if you are going to use an IAM user, then you need to set the foll
 * AWSCloudFormationFullAccess
 * AmazonSageMakerFullAccess
 
-See you in the next lab.  [Go back](..)
+See you in the next lab.
+
+[>> Next Lab (1) >>](Lab&#32;1&#32;-&#32;Infra&#32;Setup)
