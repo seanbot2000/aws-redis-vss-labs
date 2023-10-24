@@ -1,5 +1,7 @@
 # Lab 1 - Infra setup
 
+Duration: 10 mins
+
 In this lab, you are going to use CloudFormation template to setup the following infrastructure in AWS.
 - Amazon SageMaker Notebook instance
 - Required IAM roles and policies.
@@ -47,3 +49,6 @@ Click `Next`
 
 13. This will open the notebook and please select the `conda_python3` environment as your runtime. Hit the `Select` button. Your notebook is ready to be executed. But do not yet. Go to the next lab.
 ![](images/cft-setup-13.png)
+
+
+[<< Previous Lab (0) <<](../Lab\ 0\ -\ Signup\ for\ AWS/README.md)     |      [>> Next Lab (2) >>](../Lab\ 2\ -\ Redis\ Enterprise\ Cloud\ Setup/README.md)

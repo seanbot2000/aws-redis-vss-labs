@@ -1,5 +1,7 @@
 # Lab 2 - Redis Enterprise Cloud setup
 
+Duration: 30 mins
+
 If you are doing this in an in-person event or in a class room setting with a mentor, chances are that the Redis Enterprise Cloud on AWS is already setup for you.
 Simply ask for the following Redis Enterprise Cloud database endpoint details.
 

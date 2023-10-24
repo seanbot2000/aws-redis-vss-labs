@@ -1,4 +1,5 @@
 # Lab 3 - Getting started with VSS
+Duration: 30 mins
 
 In this lab, you are going to run the SageMaker Jupyter Notebook to learn on how to do the following:
 - Generating vector embeddings for text data using SentenceTransformers.

@@ -1,4 +1,6 @@
 # Lab 4 - Cleanup
+Duration: 5 mins
+
 
 In this lab, you are going to use CloudFormation template to cleanup all of the resources you have provisioned in AWS, namely:
 - Amazon SageMaker Notebook instance

@@ -53,7 +53,7 @@ If you are attending this workshop in person > AWS is giving credits that you ca
 
 Please understand that doing these hands-on exercises gives you a direct hands-on learning experience of Redis Enterprise Cloud and AWS Cloud services. However, there are going to be some costs involved, as these exercises will provision cloud resources in AWS.
 
-Important Information : Running this Redis Cluster will cost your around $0.88 per hour. These exercises can take up to 4 hours to complete. Hence, please kindly be informed that you may incur $4.00 (USD) or more , for doing these exercise, from Redis Inc.
+Important Information : Running this Redis Cluster will cost your around $0.88 per hour. These exercises can take up to maximum of 4 hours to complete. Hence, please kindly be informed that you may incur $4.00 (USD) or more , for doing these exercise, from Redis Inc.
 
 Also, please note you may also additionally incur AWS cloud resource costs. Hence, its important to do the last exercise in this guide to clean up all resources and to save costs.
 
