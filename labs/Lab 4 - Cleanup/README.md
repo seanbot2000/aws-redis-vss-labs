@@ -23,5 +23,7 @@ In this lab, you are going to use CloudFormation template to cleanup all of the 
 5. After all of the resources are deleted, you will see this.
 ![](images/cleanup-5.png)
 
+You are all set and done. Congratulations in finishing the labs.
+
 
 [<< Previous Lab (3) <<](../Lab&#32;3&#32;-&#32;Getting&#32;started&#32;with&#32;VSS&#32;on&#32;Redis&#32;Enterprise&#32;Cloud)
