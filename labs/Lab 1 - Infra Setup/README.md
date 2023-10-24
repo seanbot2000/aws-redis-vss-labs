@@ -51,4 +51,4 @@ Click `Next`
 ![](images/cft-setup-13.png)
 
 
-[<< Previous Lab (0) <<](../Lab\ 0\ -\ Signup\ for\ AWS/README.md)     |      [>> Next Lab (2) >>](../Lab\ 2\ -\ Redis\ Enterprise\ Cloud\ Setup/README.md)
+[<< Previous Lab (0) <<](../Lab&#32;0&#32;-&#32;Signup&#32;for&#32;AWS/README.md)     |      [>> Next Lab (2) >>](../Lab&#32;2&#32;-&#32;Redis&#32;Enterprise&#32;Cloud&#32;Setup/README.md)
