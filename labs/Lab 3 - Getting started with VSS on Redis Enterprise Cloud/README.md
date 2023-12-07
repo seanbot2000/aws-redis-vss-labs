@@ -16,6 +16,7 @@ The notebook includes code and examples using a synthetic dataset of bicycle des
 ## Steps
 
 1. Configure Redis Enterprise Cloud endpoint details, by searching for the line that has 'localhost' in it.
+   
 ![](images/vss-1.png)
 
 2. Replace the `host`, `port` and `password` details with the database endpoint details as shown below.
