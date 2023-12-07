@@ -26,15 +26,19 @@ port = 10660
 password = 'sn5bUxBqq25HCXF7oouPLvvRwMgdIAok'
 ```
 After replacing the Redis Enterprise database endpoint credentials, it will look like this:
+
 ![](images/vss-2.png)
 
 3. Before running the rest of the code in the Jupyter Notebook, make sure `Clear All Outputs` by clicking in any cell and acess `Right Click` menu.
+   
 ![](images/vss-3.png)
 
 4. You can simply hit `Run` ==> `Run All Cells` or you can run each cell one by one while learning the nuances of doing VSS on Redis.
+   
 ![](images/vss-4.png)
 
 5. Happy running the entire code and learning more...
+   
 ![](images/vss-5.png)
 
 [<< Previous Lab (2) <<](../Lab&#32;2&#32;-&#32;Redis&#32;Enterprise&#32;Cloud&#32;Setup) | [>> Next Lab (4) >> ](../Lab&#32;4&#32;-&#32;Cleanup)
