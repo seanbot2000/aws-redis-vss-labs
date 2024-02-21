@@ -97,17 +97,6 @@ You're now all logged in to your environment and ready to use it.
 
 ![](images/19-console.png)
 
-## Apply AWS Credits
-As an integral component of the labs, AWS is generously offering credits that surpass the expenses incurred from utilizing resources throughout this lab. You can conveniently apply these credits to your account by navigating [here](https://console.aws.amazon.com/billing/home?#/credits)
-
-Once there, click on "Redeem credit."
-
-![](images/20-credit.png)
-
-You'll then need to enter the code for the credit and answer the captcha.  With that complete, click "Redeem credit."
-
-![](images/21-redeem.png)
-
 ## IAM Permissions Setup
 
 <center><img src="images/IAM-1.png" width="261" height="260"></center>
