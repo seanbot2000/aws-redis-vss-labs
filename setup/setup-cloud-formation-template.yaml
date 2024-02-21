@@ -6,7 +6,7 @@ Resources:
       RoleArn: !GetAtt SageMakerNotebookInstanceRole.Arn
       NotebookInstanceName: AWSRedisVSSSageMakerNotebook
       DirectInternetAccess: Enabled
-      DefaultCodeRepository: https://github.com/RedisVentures/redis-vss-getting-started.git
+      DefaultCodeRepository: https://github.com/seanbot2000/redis-vss-getting-started.git
 
   SageMakerNotebookInstanceRole:
     Type: "AWS::IAM::Role"
