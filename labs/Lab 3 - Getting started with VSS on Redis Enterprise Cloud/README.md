@@ -15,24 +15,20 @@ The notebook includes code and examples using a synthetic dataset of bicycle des
 
 ## Steps
 
-1. Configure Redis Enterprise Cloud endpoint details, by searching for the line that has 'localhost' in it.
+1. Configure Redis Enterprise Cloud endpoint details, by clicking on the line that has .
    
 ![](images/vss-1.png)
 
-2. Replace the `host`, `port` and `password` details with the database endpoint details as shown below.
+2. Replace the `host`, `port` and `password` details with the database endpoint details which you received from the lab spreadsheet.
 
 ```
-host = redis-10660.c1.us-west-2-2.ec2.cloud.redislabs.com
-port = 10660
-password = 'sn5bUxBqq25HCXF7oouPLvvRwMgdIAok'
+host = ???
+port = ????
+password = '??????????????????????????'
 ```
 After replacing the Redis Enterprise database endpoint credentials, it will look like this:
 
 ![](images/vss-2.png)
-
-3. Before running the rest of the code in the Jupyter Notebook, make sure `Clear All Outputs` by clicking in any cell and acess `Right Click` menu.
-   
-![](images/vss-3.png)
 
 4. You can simply hit `Run` ==> `Run All Cells` or you can run each cell one by one while learning the nuances of doing VSS on Redis.
    
