@@ -16,7 +16,7 @@ In this lab, you are going to use CloudFormation template to setup the following
    
 ![](images/cft-setup-2.png)
 
-3. Choose the options shown and for the `S3URL` , give the value as `s3://redis-vss-getting-started/setup-cloud-formation-template.yaml`
+3. Choose the options shown and for the `S3URL` , give the value as `https://redis-vss-getting-started.s3.amazonaws.com/setup-cloud-formation-template.yaml`
 Click `Next`
 
 ![](images/cft-setup-3.png)
